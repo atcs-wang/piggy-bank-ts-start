@@ -96,6 +96,10 @@ kbd {
   text-shadow: 0 0 .5rem black;
 }
 
+.history li.negative {
+  color: red;
+}
+
 .history li:hover {
   transform: scale(1.2);
 }
